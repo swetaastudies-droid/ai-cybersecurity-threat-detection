@@ -4,11 +4,23 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .env
+*.log
+
+# Dataset files
 data/raw/*
+!data/raw/.gitkeep
 data/processed/*
+!data/processed/.gitkeep
+
+# Trained models
 models/*.joblib
-outputs/test_features.csv
-outputs/test_labels.csv
-outputs/predictions.csv
-outputs/anomaly_predictions.csv
+models/*.pkl
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
 !outputs/metrics.json
+
+# Python and editor files
+.vscode/
+.DS_Store
