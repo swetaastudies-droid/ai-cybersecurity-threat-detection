@@ -1,0 +1,21 @@
+event_id,timestamp_utc,environment,scenario,source_host,description
+SIM-0001,2026-10-14T05:34:54.301285+00:00,SIMULATED,normal_activity,SIM-HOST-01,routine
+SIM-0002,2026-10-14T05:34:54.301296+00:00,SIMULATED,failed_login_burst,SIM-HOST-02,multiple failed logins
+SIM-0003,2026-10-14T05:34:54.301299+00:00,SIMULATED,reconnaissance,SIM-HOST-03,port-scan-like activity
+SIM-0004,2026-10-14T05:34:54.301301+00:00,SIMULATED,traffic_spike,SIM-HOST-04,unusual traffic volume
+SIM-0005,2026-10-14T05:34:54.301303+00:00,SIMULATED,normal_activity,SIM-HOST-01,routine
+SIM-0006,2026-10-14T05:34:54.301305+00:00,SIMULATED,failed_login_burst,SIM-HOST-02,multiple failed logins
+SIM-0007,2026-10-14T05:34:54.301307+00:00,SIMULATED,reconnaissance,SIM-HOST-03,port-scan-like activity
+SIM-0008,2026-10-14T05:34:54.301309+00:00,SIMULATED,traffic_spike,SIM-HOST-04,unusual traffic volume
+SIM-0009,2026-10-14T05:34:54.301310+00:00,SIMULATED,normal_activity,SIM-HOST-01,routine
+SIM-0010,2026-10-14T05:34:54.301312+00:00,SIMULATED,failed_login_burst,SIM-HOST-02,multiple failed logins
+SIM-0011,2026-10-14T05:34:54.301315+00:00,SIMULATED,reconnaissance,SIM-HOST-03,port-scan-like activity
+SIM-0012,2026-10-14T05:34:54.301316+00:00,SIMULATED,traffic_spike,SIM-HOST-04,unusual traffic volume
+SIM-0013,2026-10-14T05:34:54.301318+00:00,SIMULATED,normal_activity,SIM-HOST-01,routine
+SIM-0014,2026-10-14T05:34:54.301320+00:00,SIMULATED,failed_login_burst,SIM-HOST-02,multiple failed logins
+SIM-0015,2026-10-14T05:34:54.301321+00:00,SIMULATED,reconnaissance,SIM-HOST-03,port-scan-like activity
+SIM-0016,2026-10-14T05:34:54.301323+00:00,SIMULATED,traffic_spike,SIM-HOST-04,unusual traffic volume
+SIM-0017,2026-10-14T05:34:54.301324+00:00,SIMULATED,normal_activity,SIM-HOST-01,routine
+SIM-0018,2026-10-14T05:34:54.301326+00:00,SIMULATED,failed_login_burst,SIM-HOST-02,multiple failed logins
+SIM-0019,2026-10-14T05:34:54.301328+00:00,SIMULATED,reconnaissance,SIM-HOST-03,port-scan-like activity
+SIM-0020,2026-10-14T05:34:54.301329+00:00,SIMULATED,traffic_spike,SIM-HOST-04,unusual traffic volume

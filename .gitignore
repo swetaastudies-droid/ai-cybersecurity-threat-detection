@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/raw/*
+data/processed/*
+models/*.joblib
+outputs/test_features.csv
+outputs/test_labels.csv
+outputs/predictions.csv
+outputs/anomaly_predictions.csv
+!outputs/metrics.json

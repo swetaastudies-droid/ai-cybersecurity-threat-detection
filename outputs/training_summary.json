@@ -1,0 +1,8 @@
+{
+  "classifier": "RandomForestClassifier",
+  "anomaly_detector": "IsolationForest",
+  "training_rows": 175341,
+  "testing_rows": 82332,
+  "feature_count": 42,
+  "random_state": 42
+}

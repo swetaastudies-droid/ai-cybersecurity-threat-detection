@@ -1,0 +1,11 @@
+predicted_label,attack_probability,alert_triggered,severity,investigation_status
+1,0.7251104095314951,True,Medium,Needs analyst review
+1,0.84,True,Medium,Needs analyst review
+1,0.6533449799889888,True,Low,Needs analyst review
+1,0.86,True,Medium,Needs analyst review
+1,0.76,True,Medium,Needs analyst review
+1,0.7183338960838088,True,Medium,Needs analyst review
+1,0.6385960381997777,True,Low,Needs analyst review
+1,0.68,True,Low,Needs analyst review
+0,0.0,False,Informational,Needs analyst review
+0,0.0,False,Informational,Needs analyst review
